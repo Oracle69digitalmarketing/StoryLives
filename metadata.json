@@ -1,0 +1,5 @@
+{
+  "name": "StoryLives",
+  "description": "An interactive storytelling agent for children to co-create stories through natural conversation.",
+  "requestFramePermissions": ["microphone"]
+}
